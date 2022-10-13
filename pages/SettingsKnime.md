@@ -1,4 +1,4 @@
-Usage of the Knime workflow and Environment Settings:
+# Usage of the Knime workflow and Environment Settings:
 
 The workflow contains python and R scripts in it. Hence, to avoid any error, one needs to set up the KNIME Python settings following this path inside KNIME :
 File -> Preferences -> KNIME(left side of the pop-up) -> Python
