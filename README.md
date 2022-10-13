@@ -7,6 +7,6 @@ miRdisNET workflow is:
 
 ![mirdisnetmain](https://user-images.githubusercontent.com/24303536/195619378-7c1119c1-70c1-429d-aa6f-45293b5764ec.png)
 
-## The content of the MetaNode GediNET is :
+## The content of the MetaNode miRdisNET is :
 
 ![mirdisnet_all_steps](https://user-images.githubusercontent.com/24303536/195619422-de6cf797-b612-4bc7-9bf2-01f22b46a099.png)
