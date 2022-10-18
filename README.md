@@ -3,9 +3,9 @@
 ## miRdisNET : Discovering microRNA Biomarkers that are Associated with Diseases utilizing Biological Knowledge-based Machine Learning
 Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</sup> and Malik Yousef<sup>2,3</sup> <br>
 
-1 Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey
-
-2 Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel
+<sup>1</sup> Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey<br>
+<sup>2</sup> Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel<br>
+<sup>3</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
 
 3 Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel
 
