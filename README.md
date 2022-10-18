@@ -8,7 +8,7 @@ Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</s
 <sup>3</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
 
 
-*	Correspondence: malik.yousef@gmail.com;
+*	Correspondence: malik.yousef@gmail.com and mustafa.temiz@agu.edu.tr;
 
 Equal contribution and first authorship: Amhar Jabeer and Mustafa Temiz.
 
