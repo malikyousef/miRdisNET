@@ -18,18 +18,21 @@ For more information about the Knime platform you might visit https://www.knime.
 
 ## miRdisNET main workflow is: ## 
 
-## The content of the MetaNode miRdisNET is :
+
 
 ![main_workflow](https://user-images.githubusercontent.com/24303536/196436151-a1fb431f-2785-40b3-82cc-e05a4f320cef.png)
 
-## The content of the G-S-M component ##
+## The content of the MetaNode miRdisNET is :
+
 
 ![alt text](https://user-images.githubusercontent.com/24303536/196437220-fa51c4c2-6194-4c99-bf95-3fcf23e8a608.png)
 
+## The content of the G-S-M component ##
 
-## The 3 main component of G-S-M ##
 
 ![alt text](https://user-images.githubusercontent.com/24303536/196437420-52cc8225-a4b3-4dd5-ad7d-58ec52429287.png)
 
+## The 3 main component of G-S-M ##
+![alt text](https://user-images.githubusercontent.com/24303536/196437933-03f9a9c9-b410-4b6f-816c-7dac70337b65.png)
 
 
