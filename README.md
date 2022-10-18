@@ -1,7 +1,7 @@
 # miRdisNET
 
 ## miRdisNET : Discovering microRNA Biomarkers that are Associated with Diseases utilizing Biological Knowledge-based Machine Learning
-Malik Yousef<sup>1,2</sup> ,Fatma Ozdemir<sup>3, 4</sup>, Amhar Jaber<sup>3</sup>, Jens Allmer<sup>5</sup>, and Burcu Bakir-Gungor<sup>3</sup><br>
+Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</sup> and Malik Yousef<sup>2,3</sup> <br>
 
 1 Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey
 
