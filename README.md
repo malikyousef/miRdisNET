@@ -14,16 +14,17 @@ Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</s
 miRdisNET tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
 This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
+See this [page](pages/SettingsKnime.md) for information about setting Knime.
 
 
 ## miRdisNET main workflow is: ## 
 
 **Running the workflow:**
 
-You need to use the node “MCCV Iterations” in order to specify the number of Monte Carlo Cross Validation (MCCV) iterations, for example 10 or 100.
-You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)
+You need to use the node “MCCV Iterations” in order to specify the number of Monte Carlo Cross Validation (MCCV) iterations, for example 10 or 100.<br>
+You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)<br>
 You might [download](BLCA_miRNA.table) an example of such data named [BLCA_miRNA.table](BLCA_miRNA.table)<br>
-You might [download](HMDD_V3.2.xlsx) an example of such data named [HMDD_V3.2.xlsx](HMDD_V3.2.xlsx)
+You might [download](HMDD_V3.2.xlsx) an example of such data named [HMDD_V3.2.xlsx](HMDD_V3.2.xlsx)<br>
 
 ![main_workflow](https://user-images.githubusercontent.com/24303536/196436151-a1fb431f-2785-40b3-82cc-e05a4f320cef.png)
 
