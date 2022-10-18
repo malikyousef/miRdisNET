@@ -7,9 +7,8 @@ Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</s
 <sup>2</sup> Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel<br>
 <sup>3</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
 
-3 Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel
 
-Corresponding Authors: Malik Yousef and Mustafa Temiz
+* Corresponding Authors: Malik Yousef and Mustafa Temiz
 
 Equal contribution and first authorship: Amhar Jabeer and Mustafa Temiz.
 
