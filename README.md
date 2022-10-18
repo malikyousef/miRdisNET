@@ -8,7 +8,7 @@ Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</s
 <sup>3</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
 
 
-*	Correspondence: malik.yousef@gmail.com and mustafa.temiz@agu.edu.tr;
+*Correspondence: malik.yousef@gmail.com and mustafa.temiz@agu.edu.tr;
 <br>
 ## Knime ##
 miRdisNET tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
