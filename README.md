@@ -18,7 +18,10 @@ For more information about the Knime platform you might visit https://www.knime.
 
 ## miRdisNET main workflow is: ## 
 
-
+**Running the workflow:**
+You need to use the node “MCCV Iterations” in order to specify the number of Monte Carlo Cross Validation (MCCV) iterations, for example 10 or 100.
+You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)
+You might [download](BLCA_miRNA.table) an example of such data named [BLCA_miRNA.table](BLCA_miRNA.table)
 
 ![main_workflow](https://user-images.githubusercontent.com/24303536/196436151-a1fb431f-2785-40b3-82cc-e05a4f320cef.png)
 
