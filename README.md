@@ -15,6 +15,7 @@ miRdisNET tool is a Knime workflow. In order to run the workflow, you need to do
 This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
 See this [page](pages/SettingsKnime.md) for information about setting Knime.
+Visit this [page](https://github.com/malikyousef/miRdisNET/blob/main/pages/output.md) for the outputs of PriPath.
 
 
 ## miRdisNET main workflow is: ## 
