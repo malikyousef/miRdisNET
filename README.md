@@ -9,15 +9,18 @@ Amhar Jabeer<sup>1</sup> ,Mustafa Temiz<sup>1</sup>, Burcu Bakir-Gungor<sup>1</s
 
 
 *	Correspondence: malik.yousef@gmail.com and mustafa.temiz@agu.edu.tr;
+<br>
+## Knime ##
+miRdisNET tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
+This is the link for downloading Knime: https://www.knime.com/downloads<br>
+For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
 
-Equal contribution and first authorship: Amhar Jabeer and Mustafa Temiz.
 
-
-miRdisNET workflow is: 
+## miRdisNET main workflow is: ## 
 
 ![main_workflow](https://user-images.githubusercontent.com/24303536/195619277-e570c1e6-dfa8-4dcc-87f4-085637f46601.png)
 
-## OR
+
 
 ![mirdisnetmain](https://user-images.githubusercontent.com/24303536/195619378-7c1119c1-70c1-429d-aa6f-45293b5764ec.png)
 
