@@ -16,7 +16,7 @@ This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
 See this [page](pages/SettingsKnime.md) for information about setting Knime.<br>
 Visit this [page](https://github.com/malikyousef/miRdisNET/blob/main/pages/output.md) for the outputs of PriPath.
-
+The Knime workflow name is "miRdisNET.knwf" that you might [download](miRdisNET.knwf) and run throug the [Knime](https://www.knime.com/)platform
 
 ## miRdisNET main workflow is: ## 
 
