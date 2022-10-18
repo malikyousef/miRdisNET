@@ -4,9 +4,7 @@
 Amhar Jabeer1 ,Mustafa Temiz1, Burcu Bakir-Gungor1, Malik Yousef 2, 3 
 
 1 Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey
-
 2 Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel
-
 3 Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel
 
 Corresponding Authors: Malik Yousef and Mustafa Temiz
